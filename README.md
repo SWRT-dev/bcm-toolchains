@@ -1,4 +1,4 @@
-1. `git clone https://github.com/MerlinRdev/bcm-toolchains`
+1. `git clone https://github.com/SWRT-dev/bcm-toolchains`
 
 2. `cd bcm-toolchains`
 
